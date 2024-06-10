@@ -1,1 +1,2 @@
 # Domov-duchodcu
+tady jandera
